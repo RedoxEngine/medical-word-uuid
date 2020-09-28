@@ -1,0 +1,25 @@
+{
+  "name": "@redoxengine/medical-word-uuid",
+  "version": "1.0.0",
+  "description": "Generate random identifiers containing medical terminology",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedoxEngine/medical-word-uuid.git"
+  },
+  "keywords": [
+    "medical",
+    "word",
+    "uuid",
+    "memorable"
+  ],
+  "author": "nwhatt@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RedoxEngine/medical-word-uuid/issues"
+  },
+  "homepage": "https://github.com/RedoxEngine/medical-word-uuid#readme"
+}
