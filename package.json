@@ -10,8 +10,7 @@
   "types": "build/index.d.ts",
   "scripts": {
     "test": "npm run build && jest --colors --maxWorkers=4",
-    "build": "tsc",
-    "postinstall": "tsc"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
