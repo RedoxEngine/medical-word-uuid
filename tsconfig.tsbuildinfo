@@ -141,8 +141,13 @@
         "signature": "af66264b2ae9ac2f6ae140b7bf55d2719cac424a68196d98de70aca951802d14",
         "affectsGlobalScope": false
       },
+      "./src/polyfill.ts": {
+        "version": "936256400674526222aaf731ba3474ab47dfe43c0edd8a1f5d880149457fed59",
+        "signature": "f2e35e3e0b75fe5e984e74904a412a8215cb12db78d48ce73c93cc55e4a4f3d7",
+        "affectsGlobalScope": false
+      },
       "./src/index.ts": {
-        "version": "e583e6001781a66fba12f11b50df695982a9ef298633a0b38a478f036dec3d09",
+        "version": "122935c846498e75584dda45196a96a470f7489d33fd0e9090b5950db82c66d2",
         "signature": "47bbd353a39b4ce1e2e97a708dda4e88dbe49f186ee1e3302ae13f7ef304401b",
         "affectsGlobalScope": false
       },
@@ -739,7 +744,7 @@
         "./node_modules/@types/yargs-parser/index.d.ts"
       ],
       "./src/index.ts": [
-        "./node_modules/@types/node/crypto.d.ts",
+        "./src/polyfill.ts",
         "./src/words.ts"
       ],
       "./src/test/index.spec.ts": [
@@ -1062,6 +1067,7 @@
       "./node_modules/typescript/lib/lib.es5.d.ts",
       "./node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "./src/index.ts",
+      "./src/polyfill.ts",
       "./src/test/index.spec.ts",
       "./src/words.ts"
     ]

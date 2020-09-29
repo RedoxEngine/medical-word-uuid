@@ -1,5 +1,5 @@
 import { wordlist } from './words';
-import { randomInt } from 'crypto';
+import {randomInt} from './polyfill';
 
 /**
  *  Generates a UUID based on dictionary of medical words
