@@ -137,7 +137,7 @@
         "affectsGlobalScope": true
       },
       "./src/words.ts": {
-        "version": "b45f2285357f7598fdafb1627a56ee5372ad3c939b7f5e79409dfc5e956792e4",
+        "version": "88efe3d2b4eb67bcf8021bf9b65215097d3652f6eacd9411b6865fe8945e9772",
         "signature": "af66264b2ae9ac2f6ae140b7bf55d2719cac424a68196d98de70aca951802d14",
         "affectsGlobalScope": false
       },
