@@ -1,6 +1,7 @@
 {
   "name": "@redoxengine/medical-word-uuid",
   "version": "1.2.0",
+  "private": false,
   "description": "Generate random identifiers containing medical terminology",
   "engines": {
     "node": "14"
