@@ -1,8 +1,10 @@
 {
   "name": "@redoxengine/medical-word-uuid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate random identifiers containing medical terminology",
-  "engines": {"node": "14"},
+  "engines": {
+    "node": "14"
+  },
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
