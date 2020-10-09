@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/RedoxEngine/medical-word-uuid#readme",
   "dependencies": {
+  },
+  "devDependencies": {
     "@types/jest": "^26.0.14",
     "@types/node": "^14.11.2",
     "jest": "^24.9.0",
