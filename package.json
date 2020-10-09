@@ -25,8 +25,7 @@
     "url": "https://github.com/RedoxEngine/medical-word-uuid/issues"
   },
   "homepage": "https://github.com/RedoxEngine/medical-word-uuid#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^26.0.14",
     "@types/node": "^14.11.2",
